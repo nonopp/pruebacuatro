@@ -1,4 +1,4 @@
-baseurl = "https://zhaohuabing.com"
+baseurl = ""
 title = "Prueba de blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "es-es"
